@@ -19,3 +19,5 @@ If I want to use this script, copy <br/>
   &lt;/shapes&gt;
  </a><br/>
  As you may have noticed, I customized them using attributes. A 64px red square and a circle (random color+size) with speed 5px/s.
+<br/><br/>
+P.S. &nbsp;&nbsp;&nbsp;add "<a>data:text/html,</a>" before the code and paste it in the URL bar of a web browser (safari) on iPad
